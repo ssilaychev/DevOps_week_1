@@ -1,0 +1,5 @@
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+tar: Removing leading `/' from member names
+tar: /test_dir: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
